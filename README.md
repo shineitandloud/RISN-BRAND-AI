@@ -1,4 +1,21 @@
+# RISN-BRAND-AI
 
+RISN-AI powers a futuristic fashion ecosystem blending AI, surreal design, and Shopify automation. It personalizes shopping experiences, crafts MidJourney design prompts, and manages fashion chatbot flows.
+
+## Features
+- AI-generated fashion recommendations
+- MidJourney prompt engine for futuristic prints
+- Vector database integration for personalization
+- Chatbot powered by LangChain
+- Shopify API automation
+
+## Tech Stack
+- Python, FastAPI
+- LangChain, Pinecone
+- MidJourney Prompt Integration
+- Shopify API
+
+## Folder Structure
 
 # RISN-AI: The Fusion of Fashion and Futurism
 
